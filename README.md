@@ -19,7 +19,7 @@ To build the image perform the steps outlined below.
       --label org.label-schema.vendor="Company Inc"
       --label org.label-schema.vcs-url="https://git.company.com/docker-oraclejdk"
       ```
-2. Download an Oracle JDK archive ([jdk8](jdk8), [jdk11](jdk11), [jdk15](jdk15)) in the `tar.gz` 
+2. Download an Oracle JDK archive ([jdk8][jdk8], [jdk11][jdk11], [jdk15][jdk15]) in the `tar.gz` 
    format and store it to a local path.
 3. Execute the following command (update the arguments accordingly).
    > Windows users will have to use a bash emulator (e. g. Git Bash) to run the command.
